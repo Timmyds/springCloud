@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springEurekaClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dengsong
+Implementation-Vendor-Id: com.ksg.test
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud/
+ springEurekaClient/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
